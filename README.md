@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: [global supply chain visibility APIs at Project44](https://project44.com)
 - 💬 Ask me anytime about: **Java**
 - 📫 How to reach me: **My Discord server or joshaustin at duck dot com**
-- ⚡ Fun fact **I really prefer catching as many problems as possible at compile time**
+- ⚡ Fun fact: **I really prefer catching as many problems as possible at compile time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
