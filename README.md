@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer & coding hobbyist from the Chicago area</h3>
 
 - 🔭 I’m currently working on: [global supply chain visibility APIs at Project44](https://project44.com)
-- 💬 Ask me anytime about: **Java**
+- 💬 Ask me anytime about: **Java, Ethereum, Solidity**
 - 📫 How to reach me: **My Discord server or joshaustin at duck dot com**
 - ⚡ Fun fact: **I really prefer catching as many problems as possible at compile time**
 
