@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [global supply chain visibility APIs at Project44](https://project44.com)
 - 💬 Ask me anytime about: **Java, Ethereum**
-- 📫 How to reach me: **My Discord server or joshaustin at duck dot com**
+- 📫 How to reach me: joshaustin at duck dot com**
 - ⚡ Fun fact: **I prefer catching as many problems as possible at compile time. The rest I prefer to catch during automated testing.**
 
 <h3 align="left">Connect with me:</h3>
