@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joshua Austin</h1>
-<h3 align="center">A versatile developer from the Chicago area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshaustintech&label=Profile%20views&color=0e75b6&style=flat-square" alt="joshaustintech" /> </p>
 
@@ -7,9 +6,9 @@
 
 - 🔭 I’m currently working on [Movement, by project44](https://joinmovement.project44.com/)
 
-- 🌱 I’m currently learning **Mobile dev, Ethereum, and Rust on my free time**
+- 🌱 I’m currently growing with **Docker and Kafka at work, Rust on my free time**
 
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me anything about **Java, Spring, SQL**
 
 - 📫 How to reach me **joshaustin@duck.com**
 
