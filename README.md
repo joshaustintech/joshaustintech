@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Movement, by project44](https://joinmovement.project44.com/)
 
-- 🌱 I’m currently growing with **Docker and Kafka at work, Rust on my free time**
+- 🌱 I’m currently growing with **Docker and Kafka at work, Rust and Go on my free time**
 
 - 💬 Ask me anything about **Java, Spring, SQL**
 
