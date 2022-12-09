@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/joshaustintech" target="blank"><img src="https://img.shields.io/twitter/follow/joshaustintech?logo=twitter&style=for-the-badge" alt="joshaustintech" /></a> </p>
 
-- 🔭 I’m currently working on [Movement, by project44](https://joinmovement.project44.com/)
-
-- 🌱 I’m currently growing with **Docker and Kafka at work, Rust and Go on my free time**
+- 🔭 I’m currently taking a break at home.
 
 - 💬 Ask me anything about **Java, Spring, SQL**
 
