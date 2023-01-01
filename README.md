@@ -16,8 +16,8 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Excited for 2023!](https://dev.to/joshaustintech/excited-for-2023-4939)
 - [Besides good coding and good teamwork, how do I &quot;level up&quot; as a developer?](https://dev.to/joshaustintech/besides-good-coding-and-good-teamwork-how-do-i-level-up-as-a-developer-5ff)
-- [Those sneaky NullPointerExceptions!](https://dev.to/joshaustintech/those-sneaky-nullpointerexceptions-580c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
