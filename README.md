@@ -8,11 +8,11 @@
 
 - 💬 Ask me anything about **Java, Spring, SQL**
 
-- 🌱 Currently learning about **Swift, SwiftUI**
+- 📱 Currently learning about **Swift, SwiftUI**
 
 - 📫 How to reach me **joshaustin@duck.com**
 
-- ⚡ Fun fact **I prefer catching as many problems as possible with the compiler first, then with the build, then with test automation, in that order.**
+- ⚡ Fun fact **I prefer catching as many problems as possible with the compiler first, then with automated tests, in that order.**
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
