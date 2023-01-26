@@ -2,7 +2,7 @@
 
 - 💬 Ask me anything about **Java, Spring, SQL**
 
-- 📱 Currently learning about **Swift, SwiftUI, and Go**
+- 📱 Currently learning about **SwiftUI and Flutter**
 
 - ⚡ Fun fact **I prefer catching as many problems as possible with the compiler first, then with automated tests, in that order.**
 
