@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joshua Austin</h1>
 
-- 💬 Ask me anything about **Java, Spring, SQL**
+- 💬 Ask me anything about **Java, Spring, SQL, or Ethereum**
 
-- 📱 Currently learning about **SwiftUI and Flutter**
+- 📱 Currently learning about **Rust and SwiftUI**
 
-- ⚡ Fun fact **I prefer catching as many problems as possible with the compiler first, then with automated tests, in that order.**
+- ⚡ Fun fact **I prefer catching as many problems as possible with the compiler.**
 
 ### Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
