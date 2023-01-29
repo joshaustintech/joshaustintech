@@ -8,6 +8,6 @@
 
 ### Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with RIFE2](https://dev.to/joshaustintech/getting-started-with-rife2-1jih)
 - [Excited for 2023!](https://dev.to/joshaustintech/excited-for-2023-4939)
-- [Besides good coding and good teamwork, how do I &quot;level up&quot; as a developer?](https://dev.to/joshaustintech/besides-good-coding-and-good-teamwork-how-do-i-level-up-as-a-developer-5ff)
 <!-- BLOG-POST-LIST:END -->
