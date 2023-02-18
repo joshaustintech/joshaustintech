@@ -2,8 +2,6 @@
 
 - 💬 Ask me anything about **Java, Spring, SQL, or Ethereum**
 
-- 📱 Currently learning about **Rust and SwiftUI**
-
 - ⚡ Fun fact **I prefer catching as many problems as possible with the compiler.**
 
 ### Latest blog posts:
