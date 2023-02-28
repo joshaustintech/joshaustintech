@@ -6,6 +6,6 @@
 
 ### Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [What is the Twitter Endgame?](https://dev.to/joshaustintech/what-is-the-twitter-endgame-4ap5)
 - [How to Concatenate Strings in Java like a Pro](https://dev.to/joshaustintech/how-to-concatenate-strings-in-java-like-a-pro-3c33)
-- [Java It Is! A Q1 Check-In](https://dev.to/joshaustintech/java-it-is-a-q1-check-in-3022)
 <!-- BLOG-POST-LIST:END -->
