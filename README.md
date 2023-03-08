@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Austin</h1>
 
 - 💬 Ask me anything about **Java, SQL, Spring Boot, or RIFE2**
-- 📚 I'm currently learning Swift, SwiftUI, and Rust on my free time
+- 📚 I'm currently learning **Swift, SwiftUI, and Rust** on my free time
 - ⚡ Fun fact **I prefer catching as many problems as possible with the compiler.**
 
 ### Latest blog posts:
