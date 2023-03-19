@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua Austin</h1>
 
-- 💬 Ask me anything about **Java, SQL, Spring Boot, or RIFE2**
-- 📚 I'm currently learning **Swift, SwiftUI, and Rust** on my free time
-- ⚡ Fun fact **I prefer catching as many problems as possible with the compiler.**
+- 💼 I'm delivering solutions at [Accenture](https://www.accenture.com/us-en/careers/local/flexcareers) with **Java, Spring Boot, C#, SQL, and Maven** at work
+- 🛠️ I'm building personal projects with **Python and Django**
+- 🫶 I'm contributing to open source for **RIFE2 and CJUG**
+- 📚 I'm learning **AWS and Rust**
 
 ### Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
