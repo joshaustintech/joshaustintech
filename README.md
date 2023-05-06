@@ -4,9 +4,3 @@
 - 🛠️ My preferred tools are **Java, Spring Framework, RIFE2, SQL, Maven, Docker, Hugo, and Bootstrap**
 - 🫶 I'm contributing to open source for **RIFE2 and CJUG**
 - 📚 I'm learning **AWS, Flutter, Go, Rust, and Clojure**
-
-### Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [What is the Twitter Endgame?](https://dev.to/joshaustintech/what-is-the-twitter-endgame-4ap5)
-- [How to Concatenate Strings in Java like a Pro](https://dev.to/joshaustintech/how-to-concatenate-strings-in-java-like-a-pro-3c33)
-<!-- BLOG-POST-LIST:END -->
