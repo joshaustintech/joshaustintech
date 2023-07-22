@@ -5,6 +5,6 @@
 - 🫶 I'm contributing to open source for **[RIFE2](https://github.com/rife2) and [CJUG](https://github.com/cjug/cjug.org)**
 - 🦀 I'm currently trying **Rust projects** on my free time, check out my **[raytracer](https://github.com/joshaustintech/raytracer)**!
 
-### Latest Blog Posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
