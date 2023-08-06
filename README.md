@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joshua Austin</h1>
 
-- 💼 I'm a dedicated JVM backend software engineer delivering value at **[Accenture](https://www.accenture.com/us-en/careers/local/flexcareers)**
-- 🛠️ My most frequent tools at work are **Java, Spring Boot, JUnit, SQL, REST, Kafka, Maven, and Gradle**
+- 💼 I'm a dedicated JVM software engineer delivering value at **[Accenture](https://www.accenture.com/us-en/careers/local/flexcareers)**
+- 🛠️ My most frequent tools at work are **Java, Spring Boot, JUnit, SQL, REST, Kafka, Maven, Kotlin, and Gradle**
 - 🫶 I've made open source contributions to **[RIFE2](https://github.com/rife2), [CJUG](https://github.com/cjug/cjug.org), and [Stadia Maps](https://github.com/stadiamaps/stadiamaps-api-kotlin)**
 - 💵 I'm on a personal journey to financial independence as a solopreneur by shipping small and shipping often.
-- 😎 I'm currently trying **Rust** on my free time. Check out my **[sphere raytracer](https://github.com/joshaustintech/raytracer)**!
+- 🪄 Trying out **JavaFX** as the next tool for my Java tool belt.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
