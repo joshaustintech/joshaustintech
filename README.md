@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Joshua Austin</h1>
 
-- 💼 I'm a dedicated JVM software engineer delivering value at **[Accenture](https://www.accenture.com/us-en/careers/local/flexcareers)**
-- 🛠️ My most frequent tech stacks are **Java & Spring Boot** and **Python & Flask**
+- 💼 I'm a Packaged App Development Specialist delivering value at **[Accenture](https://www.accenture.com/us-en/careers/local/flexcareers)**
+- 🛠️ I am capable of programming and deploying with a variety of programming tech stacks:
+  - **JVM stack: Java, Kotlin, Groovy, Spring Boot, Kafka**
+  - **Python stack: Python, Flask, Django, Jython, PyPy**
+  - **Frontend stack: JavaScript/TypeScript, React, jQuery**
+  - **Databases: MongoDB, PostgreSQL, MySQL, Oracle PL/SQL, MSSQL, SQLite, Informix**
+  - **and more!**
+- 🦀 My personal favorite programming language is **Rust**.
 - 🫶 I am making open source contributions to **[RIFE2](https://github.com/rife2), [CJUG](https://github.com/cjug/cjug.org), and [Stadia Maps](https://github.com/stadiamaps/stadiamaps-api-kotlin)**
-- 💵 I'm on a personal journey to financial independence as a solopreneur by shipping small and shipping often.
-- 🪄 Trying out **JavaFX** as the next tool for my Java tool belt.
+- 💵 I'm on a personal journey to financial independence as a **solopreneur** by shipping small solutions and shipping often.
+- 🎓 Always learning new things. Currently learning **Swift** and **SwiftUI** on my free time.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
