@@ -4,7 +4,7 @@
 - 🛠️ My primary tech stack is the JVM stack, including **Java, Kotlin, Groovy, Spring Boot, RIFE2, Gradle, Maven, Kafka, and more.**
 - 🫶 Contributing to open source for **[RIFE2](https://github.com/rife2), [CJUG](https://github.com/cjug/cjug.org), and [Stadia Maps](https://github.com/stadiamaps/stadiamaps-api-kotlin)**
 - 💵 On a personal journey to financial independence as a **solopreneur** by shipping small solutions and shipping often.
-- 🎓 Always learning new things. Currently learning **Swift** and **SwiftUI** when there is free time.
+- 🎓 Always learning new things on my free time - something different every week!
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
