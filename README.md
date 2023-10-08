@@ -3,6 +3,7 @@
 - 💼 I'm a Packaged App Development Specialist delivering value at **[Accenture](https://www.accenture.com/us-en/careers/local/flexcareers)**
 - 🛠️ My primary tech stack is the JVM stack, including **Java, Spring Boot, and more.**
 - 🐦 My secondary tech stack is Swift/SwiftUI.
+- 🦀 My favorite programming language is Rust, which I use from time to time in hobby projects.
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
