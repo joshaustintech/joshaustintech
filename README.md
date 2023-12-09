@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua Austin</h1>
 
 - 💼 I'm a Packaged App Development Specialist delivering value at **[Accenture](https://www.accenture.com/us-en/careers/local/flexcareers)**
-- 🛠️ My primary tech stack at work is the JVM stack, including **Java, Spring Boot, SQL, Kafka and more.**'
+- 🛠️ My primary tech stack at work is the JVM stack, including **Java, Spring Boot, SQL, Kafka and more.**
 - 👷‍♂️ Building a micro SaaS business.
 - 🎓 Learning too many things on my free time including **AI, Cloud, SwiftUI, Ruby on Rails, Rust, and more.**
 
