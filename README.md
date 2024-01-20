@@ -2,7 +2,7 @@
 
 - 💼 I'm a Packaged App Development Specialist delivering value at **[Accenture](https://www.accenture.com/us-en/careers/local/flexcareers)**.
 - 🛠️ My primary tech stack at work is the JVM stack, including **Java, Spring Boot, SQL, Kafka and more.**
-- 🎓 Learning too many things on my free time including **AI, AWS, Azure, SwiftUI, Ruby on Rails, Rust, and more.**
+- 🎓 Learning too many things on my free time including **AI, AWS, SwiftUI, NextJS, and more.**
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
