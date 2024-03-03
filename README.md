@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Joshua Austin</h1>
 <h3 align="center">
-  ☕️ Java Architect | 🤖 Private AI advocate<br />
+  👨‍💻 Java Architect | 🍎 App dev | 🤖 Private AI advocate<br />
   👨‍👩‍👧 Husband & dad | ✝️ | 🕊️ for 🇮🇱🇺🇦
 </h3>
 
