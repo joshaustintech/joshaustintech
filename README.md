@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on:
   - [Discussion](https://github.com/joshaustintech/discussion), an audio conferencing app for iOS using SwiftUI
-  - One-off [iOS design prototypes](https://github.com/joshaustintech/Prototypes) written with SwiftUI
   - [Moderator](https://github.com/joshaustintech/Moderator), the server backend to Discussion, built to scale using Java microservices
+  - One-off [iOS design prototypes](https://github.com/joshaustintech/Prototypes) written with SwiftUI
   - [Cornell4J](https://github.com/joshaustintech/Cornell4J), a **zero-dependency** CPU raytracer for JVM benchmarking purposes
 
 - 🌱 I’m currently learning **SwiftUI, SwiftData, and more**
