@@ -9,7 +9,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshaustintech&" alt="joshaustintech" /></p>
 
-- 🔭 I’m currently working on **my next iOS portfolio app (TBD)**
+- 🔭 I’m currently working on **Discussion, an audio conferencing app for iOS** [https://github.com/joshaustintech/discussion](https://github.com/joshaustintech/discussion)
 
 - 🌱 I’m currently learning **SwiftUI, SwiftData, and more**
 
