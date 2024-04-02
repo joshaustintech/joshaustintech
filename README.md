@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh Austin</h1>
-<h3 align="center">An iOS and Java developer from the Chicago suburbs</h3>
+<h3 align="center">Avid developer from the Chicago suburbs</h3>
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joshaustintech&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
-
-- 🔭 I’m currently working on:
-  - One-off [iOS design prototypes](https://github.com/joshaustintech/Prototypes) written with SwiftUI
-  - [Cornell4J](https://github.com/joshaustintech/Cornell4J), a **zero-dependency** CPU raytracer for JVM benchmarking purposes
-
-- 🌱 I’m currently learning **SwiftUI, SwiftData, and more**
 
 <h3 align="left">Latest blog posts:</h3>
 
