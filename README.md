@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh Austin</h1>
-<h3 align="center">Avid developer from the Chicago suburbs</h3>
+<h3 align="center">Java and iOS Software Engineer from the Chicago suburbs. Rust enthusiast.</h3>
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joshaustintech&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
 
