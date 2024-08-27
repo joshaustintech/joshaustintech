@@ -5,7 +5,7 @@
 <h3 align="left">Latest blog posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [A Manifesto for Radical Simplicity](https://joshaustin.tech/blog/a-manifesto-for-radical-simplicity/)
 - [Swift First Impressions](https://joshaustin.tech/blog/swift-first-impressions/)
 - [Java is becoming more like Rust, and I am here for it!](https://joshaustin.tech/blog/java-is-becoming-rust/)
-- [Kafka As An Antipattern](https://joshaustin.tech/blog/kafka-as-an-antipattern/)
 <!-- BLOG-POST-LIST:END -->
