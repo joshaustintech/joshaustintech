@@ -1,4 +1,4 @@
-<h3 align="left">Latest blog posts:</h3>
+<h3 align="left">Latest posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Resumé](https://joshaustin.tech/resume/)
